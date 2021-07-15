@@ -1,4 +1,4 @@
-## README on branch Dev
+## README on branch master
 
 To run this project you should create ur database acording to file `database.php`, and run this in to an a Apache-Mysql environment (Using xamp, for example).
 
